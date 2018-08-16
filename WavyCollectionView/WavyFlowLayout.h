@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  WavyFlowLayout.h
 //  WavyCollectionView
 //
 //  Created by Bennett on 2018-08-15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController <UICollectionViewDelegate, UICollectionViewDataSource>
-
+@interface WavyFlowLayout : UICollectionViewFlowLayout
 
 @end
-
